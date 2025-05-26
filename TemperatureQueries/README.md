@@ -1,2 +1,2 @@
-# Temperature Queries Description
+# Weather Data Analyzer Description
 This program consists of using linked lists, file I/O, and math calculations. There are input files containing location, year, month, and temperature. These files are thousands of lines long. The program should be able to parse all of this information avoid all invalid data entries and take in any date (year & month) and location then output the average temperature for that location during the two specified dates. This is done through using a linked list (mandatory). All data is stored in database arrays that can be referenced at anytime throughout the code.
